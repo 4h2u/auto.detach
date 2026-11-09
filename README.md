@@ -1,6 +1,6 @@
 # gui-detach
 
-everything ai made but works fine, i hate when stuff i open stuff from a cli and its not dettach and i hate making some long commands so i used some tokens to make this little script to never be forced to make this detach bs myself.
+everything ai made but works fine, i hate when i open stuff from a cli and its not dettached and i hate making some long commands so i used some tokens to make this little script to never be forced to make this detach bs myself.
 
 Interactive zsh returns the prompt when you type the name of an installed GUI app. The app keeps running after the terminal closes. CLI tools stay in the foreground.
 
