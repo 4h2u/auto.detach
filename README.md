@@ -108,11 +108,3 @@ Also wrapped on purpose, which can surprise:
 ## Uninstall
 
 Remove the `source` line, start a new shell, and delete `~/.cache/gui-detach` if you want the index gone. The current shell keeps the wrapper functions until it exits.
-
-## Check
-
-From a terminal (stdin and stdout must be a tty):
-
-```zsh
-zsh -fi tests/smoke.zsh
-```
